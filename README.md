@@ -1,5 +1,7 @@
 # Diabetes Prediction with Logistic Regression
 
+#First fix the file paths to match yours or use enviornment variables. After that you can run inference with the inference.py file.
+
 This project implements a machine learning model to predict diabetes risk using the Pima Indians Diabetes Database.
 
 ## Project Structure
